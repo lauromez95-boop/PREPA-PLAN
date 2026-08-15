@@ -1,0 +1,27 @@
+PREPA FUTSAL 5.1 · AISLAMIENTO DE USUARIOS
+===========================================
+
+OBJETIVO
+Los datos de un usuario no se mezclan con los de otro usuario de la misma app.
+
+PROTECCIONES
+- Cada registro diario contiene ownerId.
+- Cada modificación/importación de plan contiene ownerId.
+- Las estadísticas, rachas, logros y recomendaciones usan solo el usuario activo.
+- Al cambiar de perfil se reconstruye el plan y se limpia el estado temporal de pantalla.
+- Un registro con ownerId distinto se mueve a cuarentena interna y NO se usa.
+- Los datos antiguos sin ownerId se asignan al perfil al que ya pertenecían durante la migración.
+- Una copia de perfil importada recibe un ID nuevo y todos sus registros se reasignan a ese nuevo usuario.
+- Crear un usuario nuevo empieza con logs y modificaciones vacíos.
+- Importar Excel/CSV/JSON afecta únicamente al perfil visible/activo.
+- Los registros de sesiones realizadas no se copian al mover un entrenamiento entre fechas.
+
+MIGRACIÓN
+La base pasa a esquema v6 manteniendo la misma base local.
+Antes de la migración se guarda una copia interna.
+No se borran las claves históricas de versiones anteriores.
+
+COMPROBACIÓN VISUAL
+En la pantalla diaria aparece:
+“Registrando solo para: NOMBRE”
+para reducir el riesgo de introducir datos en el perfil equivocado.

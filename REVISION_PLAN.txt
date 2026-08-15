@@ -1,0 +1,31 @@
+AUDITORÍA PREPA FUTSAL
+======================
+Plan base revisado: 10/08/2026 a 30/10/2026
+Días cargados: 82
+Comparación con PLAN_FUTSAL_AGOSTO_OCTUBRE_2026.xlsx: 0 discrepancias en fecha, día, fase, tipo, objetivo, detalle, ruta, intensidad, duración y nota Aquiles.
+Todos los días de gimnasio contienen calentamiento + 4 ejercicios de fisio + trabajo principal.
+No hay ejercicios extra de gemelo/sóleo/heel-drop fuera del bloque del fisio.
+Fútbol sala desde septiembre: lunes y jueves.
+
+Distribución:
+- Bicicleta: 8
+- Descanso: 11
+- Fútbol sala: 16
+- Gimnasio - Fuerza: 12
+- Gimnasio - Pliometría: 11
+- Gimnasio - Superior: 12
+- Gimnasio - Unilateral: 4
+- Natación: 8
+
+Novedades v4:
+- Nota del día automática y editable.
+- Importación Excel XLSX/XLS/XLSM + CSV + JSON.
+- Plantilla Excel con hojas PLAN y EJERCICIOS.
+- Confirmación antes de reemplazar fechas existentes.
+- Importación Excel añade el calentamiento/fisio estándar a días de gimnasio si no vienen en el archivo.
+
+ACTUALIZACIÓN PARTIDOS OCTUBRE:
+- 03/10, 10/10, 17/10 y 24/10: partido por la mañana.
+- Eliminada pliometría/fuerza de pierna adicional esos sábados.
+- Complemento opcional ligero.
+- Domingo sigue siendo descanso.

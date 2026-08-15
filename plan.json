@@ -1,0 +1,5842 @@
+[
+  {
+    "date": "2026-08-10",
+    "day": "Lunes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Fuerza general con prioridad pierna",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla goblet 3×10 · 10 kg\n2) Peso muerto rumano mancuernas 3×10 · 2×8 kg\n3) Hip thrust barra 3×10 · 25 kg\n4) Remo sentado polea 3×10 · 20 kg\n5) Press banca mancuernas 3×10 · 2×6 kg\n6) Pallof press 2×10/lado · 5 kg\nRIR 3.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla goblet",
+        "planned": "3×10 · 10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Peso muerto rumano mancuernas",
+        "planned": "3×10 · 2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust barra",
+        "planned": "3×10 · 25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo sentado polea",
+        "planned": "3×10 · 20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca mancuernas",
+        "planned": "3×10 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof press",
+        "planned": "2×10/lado · 5 kg",
+        "track": "strength",
+        "suggestedLoad": "5 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Martes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Tren superior + motor",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nA1) Press banca MD 3×10 · 2×6 kg\nA2) Jalón neutro 3×10 · 20 kg\nB1) Press militar sentado 3×10 · 2×4 kg\nB2) Remo pecho apoyado 3×10 · 2×6 kg\nC1) Face pull 2×15 · 7,5 kg\nC2) Copenhagen corto 2×20 s/lado\nFinal bici: 6×30 s RPE8 /60 s suave.",
+    "route": "",
+    "intensity": "RPE 7-8",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca MD",
+        "planned": "3×10 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón neutro",
+        "planned": "3×10 · 20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar sentado",
+        "planned": "3×10 · 2×4 kg",
+        "track": "strength",
+        "suggestedLoad": "2×4 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo pecho apoyado",
+        "planned": "3×10 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15 · 7,5 kg",
+        "track": "strength",
+        "suggestedLoad": "7,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen corto",
+        "planned": "2×20 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Acondicionamiento",
+        "name": "Bicicleta / intervalos",
+        "planned": "6×30 s RPE8 /60 s suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Miércoles",
+    "phase": "Pretemporada",
+    "type": "Bicicleta",
+    "objective": "Base aeróbica urbana",
+    "details": "16 km. 3 km suaves → 3×6 min RPE5 con 3 min suaves → completar a RPE3-4. Pausar series en cruces/semáforos.",
+    "route": "R3 · Riazor → paseo litoral → Av. Finisterre · 16 km",
+    "intensity": "RPE 3-5",
+    "duration": "45-60 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R3 · Riazor → paseo litoral → Av. Finisterre · 16 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "16 km. 3 km suaves → 3×6 min RPE5 con 3 min suaves → completar a RPE3-4. Pausar series en cruces/semáforos.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Jueves",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Unilateral",
+    "objective": "Fuerza unilateral + cadena posterior",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Split squat 3×8/lado · corporal\n2) Prensa 3×10 · 40 kg orientativos\n3) RDL B-stance 3×8/lado · 10 kg\n4) Curl femoral 3×10 · 15 kg\n5) Press inclinado MD 3×10 · 2×5 kg\n6) Jalón neutro 3×10 · 20 kg\nRIR3.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Split squat",
+        "planned": "3×8/lado · corporal",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×10 · 40 kg orientativos",
+        "track": "strength",
+        "suggestedLoad": "40 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL B-stance",
+        "planned": "3×8/lado · 10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "3×10 · 15 kg",
+        "track": "strength",
+        "suggestedLoad": "15 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado MD",
+        "planned": "3×10 · 2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón neutro",
+        "planned": "3×10 · 20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Viernes",
+    "phase": "Pretemporada",
+    "type": "Natación",
+    "objective": "Recuperación física y mental",
+    "details": "5' suave → 4×4' RPE3-4 /1' muy suave → 5' suave. Crawl/espalda.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "30 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "5' suave → 4×4' RPE3-4 /1' muy suave → 5' suave. Crawl/espalda.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Sábado",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Control de aterrizaje + full body",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: Snap-down 3×5 + salto vertical bilateral con estabilización 2 s 3×4.\nFUERZA: 1) Prensa 3×8 · 40 kg  2) Hip thrust 3×8 · 25 kg  3) Remo pecho apoyado 3×10 · 2×6 kg  4) Press inclinado 3×8 · 2×5 kg  5) Dead bug resistencia 2×8/lado.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "Snap-down",
+        "planned": "3×5",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "salto vertical bilateral con estabilización 2 s",
+        "planned": "3×4",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×8 · 40 kg",
+        "track": "strength",
+        "suggestedLoad": "40 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×8 · 25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo pecho apoyado",
+        "planned": "3×10 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 · 2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Dead bug resistencia",
+        "planned": "2×8/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "day": "Domingo",
+    "phase": "Pretemporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso. Paseo suave opcional.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Lunes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Progresar fuerza",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Goblet 3×10 · 12 kg\n2) RDL MD 3×10 · 2×10 kg\n3) Hip thrust 3×10 · 30 kg\n4) Remo polea 3×10 · 22,5 kg\n5) Press banca 3×10 · 2×7 kg\n6) Pallof 2×10/lado · 5 kg\nRIR2-3.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Goblet",
+        "planned": "3×10 · 12 kg",
+        "track": "strength",
+        "suggestedLoad": "12 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL MD",
+        "planned": "3×10 · 2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×10 · 30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo polea",
+        "planned": "3×10 · 22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×10 · 2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×10/lado · 5 kg",
+        "track": "strength",
+        "suggestedLoad": "5 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Martes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + intervalos bici",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nA1) Press banca 3×10 · 2×7 kg\nA2) Jalón 3×10 · 22,5 kg\nB1) Press militar 3×10 · 2×5 kg\nB2) Remo 3×10 · 2×7 kg\nC1) Face pull 2×15 · 10 kg\nC2) Copenhagen 2×25 s/lado\nFinal bici: 8×30 s RPE8 /60 s suave.",
+    "route": "",
+    "intensity": "RPE 7-8",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×10 · 2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×10 · 22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×10 · 2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×10 · 2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15 · 10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×25 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Acondicionamiento",
+        "name": "Bicicleta / intervalos",
+        "planned": "8×30 s RPE8 /60 s suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Miércoles",
+    "phase": "Pretemporada",
+    "type": "Bicicleta",
+    "objective": "Base aeróbica urbana",
+    "details": "10' suave → 4×5' RPE5 /3' suave → completar 18 km fácil.",
+    "route": "R4 · Av. Finisterre → paseo litoral → Riazor · 18 km",
+    "intensity": "RPE 3-5",
+    "duration": "50-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R4 · Av. Finisterre → paseo litoral → Riazor · 18 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "10' suave → 4×5' RPE5 /3' suave → completar 18 km fácil.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Jueves",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Unilateral",
+    "objective": "Unilateral + posterior",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Split squat 3×8/lado · 2×4 kg\n2) Prensa 3×10 · 45 kg\n3) RDL B-stance 3×8/lado · 12 kg\n4) Curl femoral 3×10 · 17,5 kg\n5) Press inclinado 3×10 · 2×6 kg\n6) Jalón 3×10 · 22,5 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Split squat",
+        "planned": "3×8/lado · 2×4 kg",
+        "track": "strength",
+        "suggestedLoad": "2×4 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×10 · 45 kg",
+        "track": "strength",
+        "suggestedLoad": "45 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL B-stance",
+        "planned": "3×8/lado · 12 kg",
+        "track": "strength",
+        "suggestedLoad": "12 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "3×10 · 17,5 kg",
+        "track": "strength",
+        "suggestedLoad": "17,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×10 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×10 · 22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-21",
+    "day": "Viernes",
+    "phase": "Pretemporada",
+    "type": "Natación",
+    "objective": "Recuperación",
+    "details": "5' suave → 5×4' RPE3-4 /1' suave → 5' suave.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "34 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "5' suave → 5×4' RPE3-4 /1' suave → 5' suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Sábado",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Reactividad bilateral + full body",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: pogo bilateral suave 2×10 + CMJ con recepción estable 3×4.\nFUERZA: 1) Prensa 3×8 ·45 kg  2) Hip thrust 3×8 ·30 kg  3) Remo 3×8 ·2×7 kg  4) Press inclinado 3×8 ·2×6 kg  5) Pallof 2×10/lado.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "pogo bilateral suave",
+        "planned": "2×10",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "CMJ con recepción estable",
+        "planned": "3×4",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×8 ·45 kg",
+        "track": "strength",
+        "suggestedLoad": "45 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Domingo",
+    "phase": "Pretemporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Lunes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Fuerza + intensidad",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Goblet 4×8 ·14 kg\n2) RDL MD 3×8 ·2×12 kg\n3) Hip thrust 4×8 ·35 kg\n4) Remo 3×8 ·25 kg\n5) Press banca 3×8 ·2×8 kg\n6) Pallof 2×10/lado ·7,5 kg\nRIR2.",
+    "route": "",
+    "intensity": "RIR 2",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Goblet",
+        "planned": "4×8 ·14 kg",
+        "track": "strength",
+        "suggestedLoad": "14 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL MD",
+        "planned": "3×8 ·2×12 kg",
+        "track": "strength",
+        "suggestedLoad": "2×12 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "4×8 ·35 kg",
+        "track": "strength",
+        "suggestedLoad": "35 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×10/lado ·7,5 kg",
+        "track": "strength",
+        "suggestedLoad": "7,5 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Martes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + intervalos bici",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nA1) Press banca 3×8 ·2×8 kg\nA2) Jalón 3×8 ·25 kg\nB1) Press militar 3×8 ·2×6 kg\nB2) Remo 3×8 ·2×8 kg\nC1) Face pull 2×15 ·10 kg\nC2) Copenhagen 2×30 s/lado\nFinal bici: 8×40 s RPE8 /50 s suave.",
+    "route": "",
+    "intensity": "RPE 7-8",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15 ·10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×30 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Acondicionamiento",
+        "name": "Bicicleta / intervalos",
+        "planned": "8×40 s RPE8 /50 s suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Miércoles",
+    "phase": "Pretemporada",
+    "type": "Bicicleta",
+    "objective": "Base aeróbica + tempo",
+    "details": "10' suave → 3×8' RPE5-6 /4' suave → completar 20 km fácil.",
+    "route": "R5 · Riazor → paseo litoral/Portiño/Torre → Av. Finisterre · 20 km",
+    "intensity": "RPE 3-6",
+    "duration": "55-70 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R5 · Riazor → paseo litoral/Portiño/Torre → Av. Finisterre · 20 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "10' suave → 3×8' RPE5-6 /4' suave → completar 20 km fácil.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Jueves",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Unilateral",
+    "objective": "Unilateral + posterior",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Búlgara 3×8/lado ·2×5 kg\n2) Prensa 3×8 ·50 kg\n3) RDL B-stance 3×8/lado ·14 kg\n4) Curl femoral 3×8 ·20 kg\n5) Press inclinado 3×8 ·2×7 kg\n6) Jalón 3×8 ·25 kg.",
+    "route": "",
+    "intensity": "RIR 2",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×8/lado ·2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×8 ·50 kg",
+        "track": "strength",
+        "suggestedLoad": "50 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL B-stance",
+        "planned": "3×8/lado ·14 kg",
+        "track": "strength",
+        "suggestedLoad": "14 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "3×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "day": "Viernes",
+    "phase": "Pretemporada",
+    "type": "Natación",
+    "objective": "Recuperación",
+    "details": "5' suave → 4×5' RPE4 /1' suave → 5' suave.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "33 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "5' suave → 4×5' RPE4 /1' suave → 5' suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "day": "Sábado",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Pliometría multiplanar + fuerza",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: pogo bilateral 3×10 + CMJ 3×4 + lateral bound estabilizado 2×4/lado.\nFUERZA: 1) Hip thrust 3×6 ·35 kg  2) Prensa 3×8 ·50 kg  3) Jalón 3×8 ·25 kg  4) Press inclinado 3×8 ·2×7 kg.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "pogo bilateral",
+        "planned": "3×10",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "CMJ",
+        "planned": "3×4",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "lateral bound estabilizado",
+        "planned": "2×4/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×6 ·35 kg",
+        "track": "strength",
+        "suggestedLoad": "35 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "3×8 ·50 kg",
+        "track": "strength",
+        "suggestedLoad": "50 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Domingo",
+    "phase": "Pretemporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Lunes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Descarga",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Goblet 3×8 ·10 kg\n2) RDL 2×8 ·2×8 kg\n3) Hip thrust 2×8 ·25 kg\n4) Remo 2×10 ·20 kg\n5) Press banca 2×8 ·2×6 kg\n6) Pallof 2×8/lado\nRIR3-4.",
+    "route": "",
+    "intensity": "RIR 3-4",
+    "duration": "60-70 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Goblet",
+        "planned": "3×8 ·10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "2×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×10 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "2×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×8/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Martes",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Descarga superior",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press banca 2×8 ·2×6 kg\n2) Jalón 2×8 ·20 kg\n3) Press militar 2×8 ·2×4 kg\n4) Remo 2×8 ·2×6 kg\n5) Face pull 2×12 ligero\n6) Copenhagen 2×20 s/lado\nSin HIIT.",
+    "route": "",
+    "intensity": "RIR 3-4",
+    "duration": "60-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "2×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "2×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "2×8 ·2×4 kg",
+        "track": "strength",
+        "suggestedLoad": "2×4 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×12 ligero",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×20 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "day": "Miércoles",
+    "phase": "Pretemporada",
+    "type": "Bicicleta",
+    "objective": "Recuperación aeróbica",
+    "details": "12 km continuos RPE3-4, sin series.",
+    "route": "R1 · Av. Finisterre → paseo litoral → Riazor · 12 km",
+    "intensity": "RPE 3-4",
+    "duration": "35-50 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R1 · Av. Finisterre → paseo litoral → Riazor · 12 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "12 km continuos RPE3-4, sin series.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-03",
+    "day": "Jueves",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Unilateral",
+    "objective": "Última sesión pretemporada, baja carga",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Prensa 2×8 ·40 kg\n2) RDL B-stance 2×8/lado ·10 kg\n3) Curl femoral 2×8 ·15 kg\n4) Jalón 2×8 ·20 kg\n5) Press inclinado 2×8 ·2×5 kg\n6) Dead bug resistencia 2×8/lado.",
+    "route": "",
+    "intensity": "RIR 3-4",
+    "duration": "60-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "2×8 ·40 kg",
+        "track": "strength",
+        "suggestedLoad": "40 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL B-stance",
+        "planned": "2×8/lado ·10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·15 kg",
+        "track": "strength",
+        "suggestedLoad": "15 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "2×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "2×8 ·2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Dead bug resistencia",
+        "planned": "2×8/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "day": "Viernes",
+    "phase": "Pretemporada",
+    "type": "Natación",
+    "objective": "Recuperación",
+    "details": "25-30' muy suave. Crawl/espalda.",
+    "route": "",
+    "intensity": "RPE 3",
+    "duration": "25-30 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "25-30' muy suave. Crawl/espalda.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "day": "Sábado",
+    "phase": "Pretemporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Activación y frescura",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: CMJ 2×3 + lateral bound estable 2×3/lado.\nFUERZA: 1) Hip thrust 2×6 ·30 kg  2) Prensa 2×6 ·40 kg  3) Jalón 2×8 ·20 kg  4) Press inclinado 2×8 ·2×5 kg.",
+    "route": "",
+    "intensity": "RPE 5-6",
+    "duration": "55-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "CMJ",
+        "planned": "2×3",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "lateral bound estable",
+        "planned": "2×3/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "2×6 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Prensa",
+        "planned": "2×6 ·40 kg",
+        "track": "strength",
+        "suggestedLoad": "40 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "2×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "2×8 ·2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-06",
+    "day": "Domingo",
+    "phase": "Pretemporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-09-07",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×25 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×25 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-08",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Fuerza pierna en temporada",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×6 ·20 kg\n2) RDL barra 3×8 ·30 kg\n3) Búlgara 3×8/lado ·2×6 kg\n4) Curl femoral 2×10 ·20 kg\n5) Remo polea 3×8 ·25 kg\n6) Press banca 3×8 ·2×7 kg\nRIR3.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×6 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL barra",
+        "planned": "3×8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×8/lado ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×10 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo polea",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-09",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×7 kg\n2) Jalón 3×8 ·25 kg\n3) Press militar 3×8 ·2×6 kg\n4) Remo pecho apoyado 3×8 ·2×8 kg\n5) Face pull 2×15 ·10 kg\n6) Copenhagen 2×25 s/lado\n7) Carry 2×30 m/lado ·14 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo pecho apoyado",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15 ·10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×25 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·14 kg",
+        "track": "strength",
+        "suggestedLoad": "14 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-10",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Flexiones 2×10 + remo banda/polea 2×12 + face pull 2×15 + plancha 2×30 s. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Flexiones",
+        "planned": "2×10",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo banda/polea",
+        "planned": "2×12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "face pull",
+        "planned": "2×15",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha",
+        "planned": "2×30 s",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-11",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Natación",
+    "objective": "Recuperación",
+    "details": "5' suave → 4×4' RPE3-4 /1' suave → 5' suave.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "30 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "5' suave → 4×4' RPE3-4 /1' suave → 5' suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-12",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Potencia + full body",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: CMJ 3×3 + lateral bound con pausa 3×4/lado.\nFUERZA: 1) Hip thrust 3×6 ·35 kg  2) RDL B-stance 3×8/lado ·12 kg  3) Jalón 3×8 ·25 kg  4) Press inclinado 3×8 ·2×7 kg  5) Pallof 2×10/lado.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "CMJ",
+        "planned": "3×3",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "lateral bound con pausa",
+        "planned": "3×4/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×6 ·35 kg",
+        "track": "strength",
+        "suggestedLoad": "35 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL B-stance",
+        "planned": "3×8/lado ·12 kg",
+        "track": "strength",
+        "suggestedLoad": "12 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-09-14",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×30 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×30 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-15",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Progresión de fuerza",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×6 ·22,5 kg\n2) RDL 3×8 ·32,5 kg\n3) Búlgara 3×8/lado ·2×7 kg\n4) Curl femoral 2×10 ·22,5 kg\n5) Remo 3×8 ·27,5 kg\n6) Press banca 3×8 ·2×8 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×6 ·22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "3×8 ·32,5 kg",
+        "track": "strength",
+        "suggestedLoad": "32,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×8/lado ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×10 ·22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-16",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×8 kg\n2) Jalón 3×8 ·27,5 kg\n3) Press militar 3×8 ·2×7 kg\n4) Remo 3×8 ·2×9 kg\n5) Face pull 2×15 ·12,5 kg\n6) Copenhagen 2×30 s/lado\n7) Carry 2×30 m/lado ·16 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15 ·12,5 kg",
+        "track": "strength",
+        "suggestedLoad": "12,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×30 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·16 kg",
+        "track": "strength",
+        "suggestedLoad": "16 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Flexiones 2×10-12 + remo banda/polea 2×12 + face pull 2×15 + plancha frontal 2×30-35 s. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Flexiones",
+        "planned": "2×10-12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo banda/polea",
+        "planned": "2×12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "face pull",
+        "planned": "2×15",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha frontal",
+        "planned": "2×30-35 s",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-18",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Bicicleta",
+    "objective": "Recuperación aeróbica y mental",
+    "details": "3 km suaves → 2×6' RPE5 /4' fácil → completar 14 km RPE3-4.",
+    "route": "R2 · Riazor → paseo litoral → Av. Finisterre · 14 km",
+    "intensity": "RPE 3-5",
+    "duration": "40-55 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R2 · Riazor → paseo litoral → Av. Finisterre · 14 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "3 km suaves → 2×6' RPE5 /4' fácil → completar 14 km RPE3-4.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-19",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Reactividad lateral controlada",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: pogo lateral 2×8/lado + lateral bound estabilizado 3×4/lado.\nFUERZA: 1) Hip thrust 3×6 ·40 kg  2) RDL unilateral asistido 3×8/lado ·8 kg  3) Jalón 3×8 ·27,5 kg  4) Press inclinado 3×8 ·2×8 kg  5) Pallof 2×10/lado.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "pogo lateral",
+        "planned": "2×8/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "lateral bound estabilizado",
+        "planned": "3×4/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×6 ·40 kg",
+        "track": "strength",
+        "suggestedLoad": "40 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL unilateral asistido",
+        "planned": "3×8/lado ·8 kg",
+        "track": "strength",
+        "suggestedLoad": "8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-09-20",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-09-21",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×30 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×30 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-22",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Semana fuerte",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×5 ·25 kg\n2) RDL 3×6 ·35 kg\n3) Búlgara 3×6/lado ·2×8 kg\n4) Curl femoral 2×8 ·25 kg\n5) Remo 3×8 ·30 kg\n6) Press banca 3×6-8 ·2×9 kg\nRIR1-2.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×5 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "3×6 ·35 kg",
+        "track": "strength",
+        "suggestedLoad": "35 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×6/lado ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×6-8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-23",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×9 kg\n2) Jalón 3×6-8 ·30 kg\n3) Press militar 3×6-8 ·2×8 kg\n4) Remo 3×8 ·2×10 kg\n5) Face pull 2×15\n6) Copenhagen 2×30 s/lado\n7) Carry 2×30 m/lado ·18 kg.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×6-8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×6-8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×30 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·18 kg",
+        "track": "strength",
+        "suggestedLoad": "18 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-24",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Flexiones 2×10-12 + remo 2×12 + face pull 2×15; sin plancha si el futsal fue duro. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Flexiones",
+        "planned": "2×10-12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo",
+        "planned": "2×12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "face pull",
+        "planned": "2×15",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Natación",
+    "objective": "Recuperación",
+    "details": "5' suave → 5×4' RPE3-4 /1' suave → 5' suave.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "35 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "5' suave → 5×4' RPE3-4 /1' suave → 5' suave.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Gimnasio - Pliometría",
+    "objective": "Propulsión + frenada",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\nPLIOMETRÍA: hop bilateral adelante + estabilizar 2×5 + CMJ 3×3 + lateral bound 3×4/lado.\nFUERZA: 1) Hip thrust 3×5 ·45 kg  2) RDL unilateral asistido 3×8/lado ·10 kg  3) Jalón 3×6-8 ·30 kg  4) Press inclinado 3×8 ·2×9 kg.",
+    "route": "",
+    "intensity": "RPE 6-7",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Pliometría",
+        "name": "hop bilateral adelante",
+        "planned": "hop bilateral adelante",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "estabilizar",
+        "planned": "2×5",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "CMJ",
+        "planned": "3×3",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Pliometría",
+        "name": "lateral bound",
+        "planned": "3×4/lado",
+        "track": "reps",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Hip thrust",
+        "planned": "3×5 ·45 kg",
+        "track": "strength",
+        "suggestedLoad": "45 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL unilateral asistido",
+        "planned": "3×8/lado ·10 kg",
+        "track": "strength",
+        "suggestedLoad": "10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×6-8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-09-28",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×8/lado + plancha lateral 2×25 s.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×25 s",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Descarga",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 3×5 ·20 kg\n2) RDL 2×6 ·30 kg\n3) Búlgara 2×6/lado ·2×5 kg\n4) Curl femoral 2×8 ·20 kg\n5) Remo 2×8 ·25 kg\n6) Press banca 2×8 ·2×7 kg.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "60-70 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "3×5 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "2×6 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "2×6/lado ·2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "2×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-30",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Descarga superior",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 2×8 ·2×7 kg\n2) Jalón 2×8 ·25 kg\n3) Press militar 2×8 ·2×5 kg\n4) Remo 2×8 ·2×7 kg\n5) Face pull 2×12\n6) Copenhagen 2×20 s/lado.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "60-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "2×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "2×8 ·2×5 kg",
+        "track": "strength",
+        "suggestedLoad": "2×5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×12",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×20 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-01",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Sin complemento si la sesión es exigente; si es suave: Pallof 1-2×8/lado. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "si es suave: Pallof",
+        "planned": "1-2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Bicicleta",
+    "objective": "Recuperación aeróbica",
+    "details": "14 km continuos RPE3-4, sin series.",
+    "route": "R2 · Av. Finisterre → paseo litoral → Riazor · 14 km",
+    "intensity": "RPE 3-4",
+    "duration": "40-50 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R2 · Av. Finisterre → paseo litoral → Riazor · 14 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "14 km continuos RPE3-4, sin series.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-03",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Partido a las 20:00 + recuperación ligera",
+    "details": "PARTIDO DE FÚTBOL SALA a las 20:00.\nEl partido sustituye la sesión de pliometría/fuerza prevista.\nDespués o por la tarde, SOLO si te encuentras bien: 1) Bici muy suave o paseo 5-8 min  2) 90/90 de cadera 2×6/lado  3) Rotación torácica 2×6/lado  4) Pallof press 2×8/lado  5) Dead bug 2×8/lado.\nSin saltos extra, sin hip thrust/RDL y sin trabajo adicional de gemelo/sóleo.",
+    "route": "",
+    "intensity": "Partido alta · extra RPE 2-3",
+    "duration": "Partido 20:00 + 10-15 min opcional",
+    "achilles": "PARTIDO FUTSAL A LAS 20:00 = carga principal del día. No añadir pliometría ni fuerza de pierna. Mantener el trabajo de tobillo/Aquiles según la pauta del fisioterapeuta y coordinar su momento para no llegar fatigada/o al partido. Controlar la respuesta del tendón esa tarde y a la mañana siguiente.",
+    "exercises": [
+      {
+        "section": "Partido",
+        "name": "Calentamiento del equipo",
+        "planned": "Según entrenador/a",
+        "track": "time"
+      },
+      {
+        "section": "Partido",
+        "name": "Partido de fútbol sala",
+        "planned": "Competición · 20:00",
+        "track": "cardio"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado · según pauta y en un momento que no fatigue el prepartido",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Recuperación opcional",
+        "name": "Bicicleta muy suave o paseo",
+        "planned": "5-8 min · RPE 2-3",
+        "track": "time"
+      },
+      {
+        "section": "Recuperación opcional",
+        "name": "90/90 de cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Recuperación opcional",
+        "name": "Rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Pallof press",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ],
+    "dailyNote": "Partido a las 20:00. El objetivo del día es llegar fresca/o y competir bien; cualquier trabajo opcional debe ser muy ligero y no generar fatiga."
+  },
+  {
+    "date": "2026-10-04",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-10-05",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×30 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×30 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Nuevo ciclo",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×6 ·22,5 kg\n2) RDL 3×8 ·32,5 kg\n3) Búlgara 3×8/lado ·2×7 kg\n4) Curl femoral 2×10 ·22,5 kg\n5) Remo 3×8 ·27,5 kg\n6) Press banca 3×8 ·2×8 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×6 ·22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "3×8 ·32,5 kg",
+        "track": "strength",
+        "suggestedLoad": "32,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×8/lado ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×10 ·22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-07",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×8 kg\n2) Jalón 3×8 ·27,5 kg\n3) Press militar 3×8 ·2×7 kg\n4) Remo 3×8 ·2×9 kg\n5) Face pull 2×15\n6) Copenhagen palanca larga 2×15 s/lado\n7) Carry 2×30 m/lado ·16 kg.",
+    "route": "",
+    "intensity": "RIR 2-3",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×8 ·2×7 kg",
+        "track": "strength",
+        "suggestedLoad": "2×7 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen palanca larga",
+        "planned": "2×15 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·16 kg",
+        "track": "strength",
+        "suggestedLoad": "16 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-08",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Flexiones 2×10-12 + remo banda/polea 2×12 + face pull 2×15 + plancha frontal 2×30-35 s. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Flexiones",
+        "planned": "2×10-12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo banda/polea",
+        "planned": "2×12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "face pull",
+        "planned": "2×15",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha frontal",
+        "planned": "2×30-35 s",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Natación",
+    "objective": "Recuperación física y mental",
+    "details": "35' suaves RPE3-4. Crawl/espalda, sin buscar ritmos.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "35 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "35' suaves RPE3-4. Crawl/espalda, sin buscar ritmos.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Partido a las 20:00 + superior/core ligero",
+    "details": "PARTIDO DE FÚTBOL SALA a las 20:00.\nNo realizar la pliometría ni la fuerza de pierna que estaban previstas.\nMás tarde, opcional 15-20 min si te encuentras recuperada/o: 1) Remo sentado en polea 2×10 · 20-22,5 kg  2) Face pull 2×12 · 7,5-10 kg  3) Pallof press 2×8/lado  4) Dead bug 2×8/lado  5) Movilidad 90/90 2×6/lado.\nTodo con margen amplio; nada al fallo.",
+    "route": "",
+    "intensity": "Partido alta · extra RPE 2-3",
+    "duration": "Partido 20:00 + 15-20 min opcional",
+    "achilles": "PARTIDO FUTSAL A LAS 20:00 = carga principal del día. No añadir pliometría ni fuerza de pierna. Mantener el trabajo de tobillo/Aquiles según la pauta del fisioterapeuta y coordinar su momento para no llegar fatigada/o al partido. Controlar la respuesta del tendón esa tarde y a la mañana siguiente.",
+    "exercises": [
+      {
+        "section": "Partido",
+        "name": "Calentamiento del equipo",
+        "planned": "Según entrenador/a",
+        "track": "time"
+      },
+      {
+        "section": "Partido",
+        "name": "Partido de fútbol sala",
+        "planned": "Competición · 20:00",
+        "track": "cardio"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado · según pauta y en un momento que no fatigue el prepartido",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Remo sentado en polea",
+        "planned": "2×10 · 20-22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "20-22,5 kg"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Face pull",
+        "planned": "2×12 · 7,5-10 kg",
+        "track": "strength",
+        "suggestedLoad": "7,5-10 kg"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Pallof press",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad opcional",
+        "name": "90/90 de cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      }
+    ],
+    "dailyNote": "Partido a las 20:00. El objetivo del día es llegar fresca/o y competir bien; cualquier trabajo opcional debe ser muy ligero y no generar fatiga."
+  },
+  {
+    "date": "2026-10-11",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-10-12",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×30 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×30 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Fuerza alta",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×5 ·25 kg\n2) RDL 3×6 ·35 kg\n3) Búlgara 3×6/lado ·2×8 kg\n4) Curl femoral 2×8 ·25 kg\n5) Remo 3×8 ·30 kg\n6) Press banca 3×6-8 ·2×9 kg.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×5 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "3×6 ·35 kg",
+        "track": "strength",
+        "suggestedLoad": "35 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×6/lado ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×6-8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×9 kg\n2) Jalón 3×8 ·30 kg\n3) Press militar 3×6-8 ·2×8 kg\n4) Remo 3×8 ·2×10 kg\n5) Face pull 2×15\n6) Copenhagen largo 2×20 s/lado\n7) Carry 2×30 m/lado ·18 kg.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×8 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×6-8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen largo",
+        "planned": "2×20 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·18 kg",
+        "track": "strength",
+        "suggestedLoad": "18 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Flexiones 2×10-12 + remo banda/polea 2×12 + face pull 2×15 + plancha frontal 2×30-35 s. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Flexiones",
+        "planned": "2×10-12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo banda/polea",
+        "planned": "2×12",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "face pull",
+        "planned": "2×15",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha frontal",
+        "planned": "2×30-35 s",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-16",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Bicicleta",
+    "objective": "Recuperación + tempo suave",
+    "details": "3 km suaves → 2×8' RPE5 /5' fácil → completar 16 km RPE3-4.",
+    "route": "R3 · Riazor → paseo litoral → Av. Finisterre · 16 km",
+    "intensity": "RPE 3-5",
+    "duration": "45-60 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R3 · Riazor → paseo litoral → Av. Finisterre · 16 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "3 km suaves → 2×8' RPE5 /5' fácil → completar 16 km RPE3-4.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Partido a las 20:00 + superior ligero",
+    "details": "PARTIDO DE FÚTBOL SALA a las 20:00.\nEl partido sustituye los hops, CMJ, lateral bounds y la fuerza de pierna del sábado.\nPor la tarde, opcional 15-20 min si te encuentras bien: 1) Press inclinado con mancuernas 2×8 · 2×6 kg  2) Jalón neutro 2×8 · 22,5 kg  3) Face pull 2×12 ligero  4) Plancha lateral 2×20-25 s/lado  5) Rotación torácica 2×6/lado.\nRIR 4 aprox.; debe sentirse fácil.",
+    "route": "",
+    "intensity": "Partido alta · extra RIR 4",
+    "duration": "Partido 20:00 + 15-20 min opcional",
+    "achilles": "PARTIDO FUTSAL A LAS 20:00 = carga principal del día. No añadir pliometría ni fuerza de pierna. Mantener el trabajo de tobillo/Aquiles según la pauta del fisioterapeuta y coordinar su momento para no llegar fatigada/o al partido. Controlar la respuesta del tendón esa tarde y a la mañana siguiente.",
+    "exercises": [
+      {
+        "section": "Partido",
+        "name": "Calentamiento del equipo",
+        "planned": "Según entrenador/a",
+        "track": "time"
+      },
+      {
+        "section": "Partido",
+        "name": "Partido de fútbol sala",
+        "planned": "Competición · 20:00",
+        "track": "cardio"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado · según pauta y en un momento que no fatigue el prepartido",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Press inclinado con mancuernas",
+        "planned": "2×8 · 2×6 kg · RIR 4",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Jalón neutro",
+        "planned": "2×8 · 22,5 kg · RIR 4",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Face pull",
+        "planned": "2×12 ligero",
+        "track": "strength",
+        "suggestedLoad": "Ligero"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Plancha lateral",
+        "planned": "2×20-25 s/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad opcional",
+        "name": "Rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      }
+    ],
+    "dailyNote": "Partido a las 20:00. El objetivo del día es llegar fresca/o y competir bien; cualquier trabajo opcional debe ser muy ligero y no generar fatiga."
+  },
+  {
+    "date": "2026-10-18",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-10-19",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×10/lado + plancha lateral 2×30 s + dead bug 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "plancha lateral",
+        "planned": "2×30 s",
+        "track": "reps"
+      },
+      {
+        "section": "Complemento post",
+        "name": "dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Semana más fuerte",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 4×5 ·27,5 kg\n2) RDL 3×6 ·37,5 kg\n3) Búlgara 3×6/lado ·2×9 kg\n4) Curl femoral 2×8 ·27,5 kg\n5) Remo 3×8 ·32,5 kg\n6) Press banca 3×6 ·2×10 kg\nMáximo RIR1-2, nunca fallo.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "70-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "4×5 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "3×6 ·37,5 kg",
+        "track": "strength",
+        "suggestedLoad": "37,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "3×6/lado ·2×9 kg",
+        "track": "strength",
+        "suggestedLoad": "2×9 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·27,5 kg",
+        "track": "strength",
+        "suggestedLoad": "27,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8 ·32,5 kg",
+        "track": "strength",
+        "suggestedLoad": "32,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "3×6 ·2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Superior fuerte + core",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 3×8 ·2×10 kg\n2) Jalón 3×6-8 ·32,5 kg\n3) Press militar 3×8 ·2×8 kg\n4) Remo 3×8-10 ·2×10 kg\n5) Face pull 2×15\n6) Copenhagen 2×25 s/lado\n7) Carry 2×30 m/lado ·20 kg.",
+    "route": "",
+    "intensity": "RIR 1-2",
+    "duration": "65-75 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "3×8 ·2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "3×6-8 ·32,5 kg",
+        "track": "strength",
+        "suggestedLoad": "32,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "3×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "3×8-10 ·2×10 kg",
+        "track": "strength",
+        "suggestedLoad": "2×10 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×15",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen",
+        "planned": "2×25 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Carry",
+        "planned": "2×30 m/lado ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Solo si terminas fresca/o: flexiones 2×10 + remo 2×12. Sin pierna. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "remo",
+        "planned": "2×12. Sin pierna",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Natación",
+    "objective": "Recuperación física y mental",
+    "details": "35-40' RPE3-4, continuo cómodo.",
+    "route": "",
+    "intensity": "RPE 3-4",
+    "duration": "35-40 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Natación",
+        "name": "Sesión de natación",
+        "planned": "35-40' RPE3-4, continuo cómodo.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Partido a las 20:00 + recuperación activa",
+    "details": "PARTIDO DE FÚTBOL SALA a las 20:00.\nNo añadir hops unilaterales, bounds reactivos, hip thrust ni RDL tras el partido.\nMás tarde, opcional 15-20 min: 1) Bici muy suave 5 min  2) Remo polea 2×10 · 22,5 kg  3) Press inclinado mancuernas 2×8 · 2×6 kg  4) Pallof press 2×8/lado  5) Dead bug 2×8/lado.\nObjetivo: terminar más suelta/o, no acumular fatiga.",
+    "route": "",
+    "intensity": "Partido alta · extra RPE 2-3",
+    "duration": "Partido 20:00 + 15-20 min opcional",
+    "achilles": "PARTIDO FUTSAL A LAS 20:00 = carga principal del día. No añadir pliometría ni fuerza de pierna. Mantener el trabajo de tobillo/Aquiles según la pauta del fisioterapeuta y coordinar su momento para no llegar fatigada/o al partido. Controlar la respuesta del tendón esa tarde y a la mañana siguiente.",
+    "exercises": [
+      {
+        "section": "Partido",
+        "name": "Calentamiento del equipo",
+        "planned": "Según entrenador/a",
+        "track": "time"
+      },
+      {
+        "section": "Partido",
+        "name": "Partido de fútbol sala",
+        "planned": "Competición · 20:00",
+        "track": "cardio"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado · según pauta y en un momento que no fatigue el prepartido",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Recuperación opcional",
+        "name": "Bicicleta muy suave",
+        "planned": "5 min · RPE 2-3",
+        "track": "time"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Remo sentado en polea",
+        "planned": "2×10 · 22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Press inclinado con mancuernas",
+        "planned": "2×8 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Pallof press",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ],
+    "dailyNote": "Partido a las 20:00. El objetivo del día es llegar fresca/o y competir bien; cualquier trabajo opcional debe ser muy ligero y no generar fatiga."
+  },
+  {
+    "date": "2026-10-25",
+    "day": "Domingo",
+    "phase": "Temporada",
+    "type": "Descanso",
+    "objective": "Recuperación completa",
+    "details": "Descanso.",
+    "route": "",
+    "intensity": "Muy suave",
+    "duration": "—",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": []
+  },
+  {
+    "date": "2026-10-26",
+    "day": "Lunes",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/core",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués: Pallof 2×8/lado.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      },
+      {
+        "section": "Complemento post",
+        "name": "Pallof",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "day": "Martes",
+    "phase": "Temporada",
+    "type": "Gimnasio - Fuerza",
+    "objective": "Descarga final",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Sentadilla frontal 3×5 ·22,5 kg\n2) RDL 2×6 ·30 kg\n3) Búlgara 2×6/lado ·2×6 kg\n4) Curl femoral 2×8 ·20 kg\n5) Remo 2×8 ·25 kg\n6) Press banca 2×8 ·2×8 kg\nRIR3.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "60-70 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Sentadilla frontal",
+        "planned": "3×5 ·22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "RDL",
+        "planned": "2×6 ·30 kg",
+        "track": "strength",
+        "suggestedLoad": "30 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Búlgara",
+        "planned": "2×6/lado ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Curl femoral",
+        "planned": "2×8 ·20 kg",
+        "track": "strength",
+        "suggestedLoad": "20 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press banca",
+        "planned": "2×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "day": "Miércoles",
+    "phase": "Temporada",
+    "type": "Gimnasio - Superior",
+    "objective": "Descarga final",
+    "details": "5' bici estática + calentamiento: 3×12 almeja/lado, 3×12 puente de glúteo, 3×12 bicho muerto total, 3×12 flexiones con rodillas + bloque fisio.\n1) Press inclinado 2×8 ·2×8 kg\n2) Jalón 2×8 ·25 kg\n3) Press militar 2×8 ·2×6 kg\n4) Remo 2×8 ·2×8 kg\n5) Face pull 2×12\n6) Copenhagen corto 2×20 s/lado.",
+    "route": "",
+    "intensity": "RIR 3",
+    "duration": "60-65 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Calentamiento",
+        "name": "Bicicleta estática",
+        "planned": "5 min suave",
+        "track": "time"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Almeja",
+        "planned": "3×12/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Puente de glúteo",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Bicho muerto",
+        "planned": "3×12 total",
+        "track": "reps"
+      },
+      {
+        "section": "Calentamiento",
+        "name": "Flexiones con rodillas",
+        "planned": "3×12",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press inclinado",
+        "planned": "2×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Jalón",
+        "planned": "2×8 ·25 kg",
+        "track": "strength",
+        "suggestedLoad": "25 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Press militar",
+        "planned": "2×8 ·2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Remo",
+        "planned": "2×8 ·2×8 kg",
+        "track": "strength",
+        "suggestedLoad": "2×8 kg"
+      },
+      {
+        "section": "Fuerza",
+        "name": "Face pull",
+        "planned": "2×12",
+        "track": "strength",
+        "suggestedLoad": ""
+      },
+      {
+        "section": "Fuerza",
+        "name": "Copenhagen corto",
+        "planned": "2×20 s/lado",
+        "track": "strength",
+        "suggestedLoad": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-10-29",
+    "day": "Jueves",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Futsal + movilidad/superior ligero",
+    "details": "Antes: movilidad tobillo 2×8/lado + 90/90 cadera 2×6/lado + adductor rock-back 2×8 + rotación torácica 2×6/lado.\nEntrenamiento de fútbol sala.\nDespués (solo si terminas bien): Solo movilidad previa. Nada extra después. Sin trabajo extra de pierna.",
+    "route": "",
+    "intensity": "Alta",
+    "duration": "Según equipo",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Movilidad previa",
+        "name": "movilidad tobillo",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "90/90 cadera",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "adductor rock-back",
+        "planned": "2×8",
+        "track": "reps"
+      },
+      {
+        "section": "Movilidad previa",
+        "name": "rotación torácica",
+        "planned": "2×6/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Fútbol sala",
+        "name": "Entrenamiento de fútbol sala",
+        "planned": "Sesión del equipo",
+        "track": "session"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "day": "Viernes",
+    "phase": "Temporada",
+    "type": "Bicicleta",
+    "objective": "Recuperación y cierre",
+    "details": "12 km continuos RPE3-4. Sin intervalos. Pedaleo fácil.",
+    "route": "R1 · Av. Finisterre → paseo litoral → Riazor · 12 km",
+    "intensity": "RPE 3-4",
+    "duration": "35-50 min",
+    "achilles": "No duplicar gemelos/sóleo/heel-drops fuera del fisio. 0-2/10: continuar; 3/10: no progresar; >3-4/10 o peor al día siguiente: reducir contactos/carga y comentarlo con el fisio.",
+    "exercises": [
+      {
+        "section": "Bicicleta",
+        "name": "Ruta / rodaje",
+        "planned": "R1 · Av. Finisterre → paseo litoral → Riazor · 12 km",
+        "track": "cardio"
+      },
+      {
+        "section": "Bicicleta",
+        "name": "Trabajo previsto",
+        "planned": "12 km continuos RPE3-4. Sin intervalos. Pedaleo fácil.",
+        "track": "cardio"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "day": "Sábado",
+    "phase": "Temporada",
+    "type": "Fútbol sala",
+    "objective": "Partido a las 20:00 + recuperación activa",
+    "details": "PARTIDO DE FÚTBOL SALA a las 20:00.\nNo añadir hops unilaterales, bounds reactivos, hip thrust ni RDL tras el partido.\nMás tarde, opcional 15-20 min: 1) Bici muy suave 5 min  2) Remo polea 2×10 · 22,5 kg  3) Press inclinado mancuernas 2×8 · 2×6 kg  4) Pallof press 2×8/lado  5) Dead bug 2×8/lado.\nObjetivo: terminar más suelta/o, no acumular fatiga.",
+    "route": "",
+    "intensity": "Partido alta · extra RPE 2-3",
+    "duration": "Partido 20:00 + 15-20 min opcional",
+    "achilles": "PARTIDO FUTSAL A LAS 20:00 = carga principal del día. No añadir pliometría ni fuerza de pierna. Mantener el trabajo de tobillo/Aquiles según la pauta del fisioterapeuta y coordinar su momento para no llegar fatigada/o al partido. Controlar la respuesta del tendón esa tarde y a la mañana siguiente.",
+    "exercises": [
+      {
+        "section": "Partido",
+        "name": "Calentamiento del equipo",
+        "planned": "Según entrenador/a",
+        "track": "time"
+      },
+      {
+        "section": "Partido",
+        "name": "Partido de fútbol sala",
+        "planned": "Competición · 20:00",
+        "track": "cardio"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Movilidad de tobillo indicada por el fisioterapeuta",
+        "planned": "3×10/lado · según pauta y en un momento que no fatigue el prepartido",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Sentadilla isométrica con elevación de talones/puntillas",
+        "planned": "3×10 según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Zancada isométrica con apoyo sobre step",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Fisio tobillo/Aquiles",
+        "name": "Elevación bilateral de talones en step + descenso excéntrico a una pierna",
+        "planned": "3×10/lado según pauta",
+        "track": "reps"
+      },
+      {
+        "section": "Recuperación opcional",
+        "name": "Bicicleta muy suave",
+        "planned": "5 min · RPE 2-3",
+        "track": "time"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Remo sentado en polea",
+        "planned": "2×10 · 22,5 kg",
+        "track": "strength",
+        "suggestedLoad": "22,5 kg"
+      },
+      {
+        "section": "Superior opcional",
+        "name": "Press inclinado con mancuernas",
+        "planned": "2×8 · 2×6 kg",
+        "track": "strength",
+        "suggestedLoad": "2×6 kg"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Pallof press",
+        "planned": "2×8/lado",
+        "track": "reps"
+      },
+      {
+        "section": "Core opcional",
+        "name": "Dead bug",
+        "planned": "2×8/lado",
+        "track": "reps"
+      }
+    ],
+    "dailyNote": "Último día del bloque. Partido a las 20:00: compite con energía y cierra octubre sin añadir carga innecesaria antes del encuentro."
+  }
+]

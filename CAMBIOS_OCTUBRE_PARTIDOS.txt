@@ -1,0 +1,7 @@
+ACTUALIZACIÓN OCTUBRE 2026
+
+Sábados 3, 10, 17 y 24 de octubre: partido de fútbol sala por la mañana.
+El partido sustituye la pliometría y la fuerza de pierna de esos sábados.
+Se mantiene únicamente un complemento opcional muy ligero de recuperación / tren superior / core.
+Los domingos permanecen como descanso y el resto del plan no cambia.
+Se actualiza también el service worker a v5 para forzar la actualización de la app instalada.

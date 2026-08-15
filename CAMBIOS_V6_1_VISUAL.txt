@@ -1,0 +1,25 @@
+PREPA FUTSAL v6.1 · REDISEÑO VISUAL
+=====================================
+
+Esta versión NO cambia la funcionalidad ni la base de datos de la v6.
+
+CAMBIOS VISUALES
+- Interfaz más ligera y armonizada para iPhone.
+- Cabecera translúcida y navegación inferior más compacta.
+- Panel semanal con mejor jerarquía visual.
+- Tarjeta principal del entrenamiento más limpia.
+- Peso recomendado más visible.
+- Descansos y temporizadores mejor diferenciados.
+- Tablas de series e intervalos más legibles.
+- Formularios con estados de foco más claros.
+- Ejercicios agrupados con acentos de color más sutiles.
+- Panel de bienestar más ordenado.
+- Tarjetas de progreso, gráficas, rachas y logros refinadas.
+- Planificador semanal y editor visualmente simplificados.
+- Mejoras de espaciado y tamaño específicas para iPhone.
+- Compatibilidad con reducción de movimiento del sistema.
+
+GARANTÍA DE COMPATIBILIDAD
+app.js, data.js y plan.json son exactamente los mismos que en PREPA Futsal v6.
+Solo se ha modificado presentación (styles.css), referencias de caché (index.html)
+y la versión del service worker para forzar la carga del nuevo diseño.

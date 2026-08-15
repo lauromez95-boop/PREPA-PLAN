@@ -1,0 +1,18 @@
+PREPA FUTSAL v6 · APP ADAPTATIVA
+
+- Temporizador de descanso por ejercicio y temporizador secuencial de intervalos.
+- Panel semanal al abrir la app.
+- Planificador semanal arrastrable + alternativa táctil Mover/Mover aquí.
+- Avisos de conflicto de carga antes de futsal/partidos.
+- Recomendación de fuerza con últimas 3-5 sesiones, cumplimiento, RPE, e1RM, Aquiles, bienestar, días desde última sesión y descargas.
+- Ficha de progresión por ejercicio: e1RM, peso, reps, volumen, mejor serie.
+- Biblioteca central de ejercicios con alias + biblioteca propia por usuario.
+- Bienestar preentreno: sueño, fatiga, ganas, dolor muscular y Aquiles.
+- Cardio estructurado: continuo, intervalos por tiempo/distancia y recuperación.
+- Bici: km, tiempo, RPE, velocidad media y desnivel.
+- Natación: metros, bloques, estilo, tiempo y ritmo /100 m.
+- Calendario de competición con ajuste automático conservador de carga previa.
+- Plantillas reutilizables.
+- Historial de versiones del plan y restauración sin borrar logs.
+- Multiusuario aislado se conserva.
+- Migración automática desde v5.1; copia interna antes de cambiar esquema.

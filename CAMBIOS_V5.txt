@@ -1,0 +1,15 @@
+PREPA FUTSAL 5.0
+- Migración automática desde los registros anteriores sin borrarlos.
+- Multiusuario con plan, datos, estadísticas e importaciones independientes.
+- Fuerza: registro serie a serie (peso, reps, RPE).
+- Recomendación automática de peso y reps basada en historial.
+- Peso recomendado separado del volumen previsto para evitar duplicados.
+- Descanso entre series y antes del siguiente ejercicio.
+- Cardio general, intervalos, bicicleta y natación con formularios diferentes.
+- Bici y natación pueden registrar además cada intervalo individual.
+- Mover/intercambiar entrenamientos entre fechas.
+- Reordenar ejercicios de un entrenamiento.
+- Rachas, logros y apartado de motivación.
+- Índices personales y gráficas de fuerza, resistencia, consistencia y carga.
+- Copias completas o por usuario.
+- Actualización/optimización de la base con copia previa.

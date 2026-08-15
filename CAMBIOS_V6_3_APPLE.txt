@@ -1,0 +1,32 @@
+PREPA FUTSAL v6.3 · INTERFAZ TIPO APPLE
+=========================================
+
+Esta versión mejora solo la apariencia visual de la app con una estética inspirada en Apple/iPhone.
+
+CAMBIOS VISUALES
+- Diseño más minimalista y limpio.
+- Estética tipo iOS con fondos suaves y sensación de app nativa.
+- Tarjetas translúcidas estilo glass / frosted.
+- Navegación inferior más elegante y clara.
+- Cabecera más ligera y tipo iPhone.
+- Mejor jerarquía visual del entrenamiento del día.
+- Recomendaciones y peso recomendado más premium.
+- Panel semanal con aspecto más cuidado.
+- Formularios, tablas y fichas más refinadas.
+- Temporizador y toast con estilo tipo Apple.
+- Progreso, logros y plan semanal más coherentes visualmente.
+
+NO CAMBIA
+- app.js
+- data.js
+- plan.json
+- lógica
+- usuarios
+- registros
+- entrenamientos
+
+Solo se modifican:
+- styles.css
+- index.html
+- sw.js
+- este archivo de cambios

@@ -1,0 +1,30 @@
+PREPA FUTSAL v6.4 · ELEGANT
+=============================
+
+Rediseño visual más elegante, sobrio y refinado.
+
+ESTÉTICA
+- Base Apple/iPhone, pero menos "glass" y más premium.
+- Blanco roto y grafito.
+- Azul profundo como color principal.
+- Detalles dorado/champagne muy suaves.
+- Menos saturación de color.
+- Más espacio y mejor jerarquía tipográfica.
+- Tarjetas más limpias y discretas.
+- Panel semanal y motivación con acabado más sobrio.
+- Recomendaciones, pesos, descansos y gráficas más refinados.
+- Navegación inferior más compacta y elegante.
+
+NO SE MODIFICA
+- app.js
+- data.js
+- plan.json
+- usuarios
+- registros
+- plan
+- recomendaciones
+- estadísticas
+- temporizadores
+- historial
+
+Solo se modifican styles.css, index.html y sw.js para aplicar la nueva interfaz.

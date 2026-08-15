@@ -1,0 +1,26 @@
+PREPA FUTSAL v6.2 · INTERFAZ MEJORADA
+=======================================
+
+Esta versión mejora la interfaz sin cambiar la lógica de entrenamiento.
+
+MEJORAS
+- Diseño más limpio y agradable a la vista.
+- Jerarquía visual más clara en el entrenamiento del día.
+- Tarjetas más ligeras y mejor separación entre bloques.
+- Panel semanal más visible y compacto.
+- Botones y navegación más claros en iPhone.
+- Sesiones, ejercicios y recomendaciones más fáciles de leer.
+- Peso recomendado, descansos y temporizadores destacados visualmente.
+- Planificador semanal, plantillas y calendario de competición más ordenados.
+- Paneles de progreso, gráficas, rachas y logros más limpios.
+- Mejor uso del color para diferenciar tipos de sesión.
+- Campos de formulario y tablas más legibles.
+- Mejor sensación de app móvil premium.
+
+ARCHIVOS FUNCIONALES
+app.js, data.js y plan.json se mantienen exactamente igual que en la versión anterior.
+Solo cambian:
+- styles.css
+- index.html
+- sw.js
+- este archivo de cambios

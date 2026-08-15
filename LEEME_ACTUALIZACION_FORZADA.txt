@@ -1,0 +1,29 @@
+ACTUALIZACIÓN FORZADA · PREPA FUTSAL
+====================================
+
+Esta versión corrige dos causas por las que el plan podía seguir apareciendo antiguo:
+1) caché del service worker / app instalada;
+2) plan personalizado guardado en localStorage con prioridad sobre data.js.
+
+NO BORRA:
+- cargas registradas;
+- repeticiones;
+- estados Hecho/Parcial/No hecho;
+- RPE;
+- notas de sesión;
+- registros del Aquiles.
+
+SÍ fuerza de nuevo, una sola vez, estos días del plan base:
+03/10, 10/10, 17/10, 24/10 y 31/10 de 2026.
+Los partidos aparecen a las 20:00.
+
+PARA GITHUB:
+Sustituye estos 5 archivos:
+- index.html
+- app.js
+- data.js
+- plan.json
+- sw.js
+
+Después abre primero la URL pública de GitHub Pages en Safari. Espera unos segundos y recarga una vez.
+Luego abre el icono instalado de PREPA Futsal.

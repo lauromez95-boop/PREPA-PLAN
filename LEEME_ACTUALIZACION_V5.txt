@@ -1,0 +1,38 @@
+PREPA FUTSAL v5 · ACTUALIZACIÓN SIN PERDER DATOS
+===================================================
+
+ARCHIVOS A SUSTITUIR EN GITHUB:
+- index.html
+- app.js
+- styles.css
+- sw.js
+- data.js y plan.json (se incluyen para mantener el plan actualizado hasta 31/10)
+
+MIGRACIÓN:
+La app crea prepaFutsal.database.v5 y copia los registros existentes de:
+- prepaFutsal.logs.v2 / v1
+- prepaFutsal.customPlan.v2
+- prepaFutsal.prefs.v1
+
+NO borra las claves antiguas.
+
+NOVEDADES:
+- Varios usuarios independientes.
+- Cada usuario puede importar su propio Excel/CSV/JSON.
+- Mover o intercambiar entrenamientos entre fechas.
+- Reordenar ejercicios dentro del día.
+- Registro específico: fuerza/peso, reps, intervalos, bici, natación, cardio.
+- Series de fuerza registradas una a una: peso, reps y RPE.
+- Peso recomendado separado claramente del volumen de trabajo.
+- Descanso entre series y antes del siguiente ejercicio.
+- Intervalos registrados uno a uno.
+- Recomendación automática de peso/reps usando el historial del mismo ejercicio.
+- Motivación: rachas y logros.
+- Progreso: índices personales de fuerza, resistencia, consistencia y calidad de registro.
+- Gráficas de carga semanal, fuerza y minutos de resistencia.
+- Copias de seguridad por usuario o de toda la base.
+- Botón para crear copia y optimizar/migrar la base.
+
+IMPORTANTE:
+Los índices de fuerza/resistencia son PERSONALES y sirven para visualizar tu propia evolución.
+No son baremos clínicos ni comparaciones poblacionales.
