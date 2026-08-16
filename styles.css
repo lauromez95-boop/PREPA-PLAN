@@ -4335,3 +4335,26 @@ button:active{
     scroll-behavior:auto!important;
   }
 }
+
+
+/* v6.4.1 · copiar valores anteriores en calentamiento y fisio */
+.copyPrevActions{
+  display:flex;
+  justify-content:flex-start;
+  margin-top:10px;
+}
+.copyPrevActions .lastBtn,
+.strengthActions .lastBtn{
+  margin-top:0;
+  border:1px solid rgba(29,36,43,.065);
+  background:#f4f2ed;
+  color:#172b3a;
+  border-radius:12px;
+  padding:8px 10px;
+  font-size:10px;
+  font-weight:750;
+}
+.copyPrevActions .lastBtn:active,
+.strengthActions .lastBtn:active{
+  transform:scale(.975);
+}

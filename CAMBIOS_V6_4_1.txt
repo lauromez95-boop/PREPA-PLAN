@@ -1,0 +1,11 @@
+PREPA FUTSAL v6.4.1 · COPIAR VALORES ANTERIORES
+================================================
+
+- Recuperado el botón de copiar valores anteriores para ejercicios de Calentamiento.
+- Añadido el mismo botón a ejercicios de Fisio / Tobillo / Aquiles.
+- Funciona también con ejercicios de calentamiento registrados por tiempo, como bicicleta estática.
+- Sigue disponible en los ejercicios de fuerza.
+- La búsqueda usa el mismo ejercicio del historial del USUARIO ACTIVO, sin mezclar perfiles.
+- Se copian únicamente los valores registrados (series, reps, tiempo, cargas, RPE, etc.).
+- NO se copia el estado Hecho/Parcial ni la nota del ejercicio anterior.
+- No cambia el esquema de la base de datos ni se eliminan registros anteriores.

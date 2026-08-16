@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  const APP_VERSION = '6.0.0';
+  const APP_VERSION = '6.4.1';
   const SCHEMA_VERSION = 7;
   const DB_KEY = 'prepaFutsal.database.v5';
   const DB_BACKUP_KEY = 'prepaFutsal.databaseBackups.v1';
@@ -578,6 +578,14 @@
     document.getElementById('prevDay')?.addEventListener('click',()=>{selectedDate=prev;renderDay();scrollTo(0,0);});document.getElementById('nextDay')?.addEventListener('click',()=>{selectedDate=next;renderDay();scrollTo(0,0);});document.getElementById('editDayBtn').onclick=()=>{view='editor';renderEditor(day.date,false);};document.getElementById('moveDayBtn').onclick=()=>moveOrSwapDay(day.date);document.getElementById('templateDayBtn').onclick=()=>saveTemplateFromDate(day.date);
     main.querySelectorAll('[data-status]').forEach(b=>b.onclick=()=>{log.status=b.dataset.status;save();renderDay();});main.querySelectorAll('[data-session]').forEach(el=>el.oninput=()=>{log[el.dataset.session]=el.value;save();});main.querySelectorAll('[data-wellness]').forEach(el=>el.oninput=()=>{w[el.dataset.wellness]=el.value;save();const score=readinessScore(w),box=main.querySelector('.readiness'),adv=main.querySelector('.wellnessAdvice');if(box){box.className='readiness '+(score!==null&&score<55?'low':score!==null&&score<75?'mid':'good');box.innerHTML=`<strong>${score===null?'—':score}</strong><small>${readinessLabel(score)}</small>`;}if(adv)adv.textContent=wellnessSuggestion(log);});main.querySelectorAll('.exercise').forEach(card=>bindExerciseCard(card,day,log));
   }
+  function isWarmupOrPhysioExercise(e={}){
+    const section=String(e.section||'').toLowerCase();
+    return /calent|fisio|aquiles|tobillo/.test(section);
+  }
+  function copyPreviousValuesButton(e,kind){
+    if(kind==='strength'||!isWarmupOrPhysioExercise(e))return'';
+    return `<div class="copyPrevActions"><button class="lastBtn copyLast">↺ Copiar valores del entreno anterior</button></div>`;
+  }
   function exerciseCard(day,e,i,log){
     const x=exerciseLog(log,e,i),done=x.done?'checked':'',kind=e.kind;
     const rest=`<div class="restLine"><span>⏱ Descanso series: <b>${e.restSetSec||'—'} s</b></span><span>➡️ Antes del siguiente ejercicio: <b>${e.restExerciseSec||'—'} s</b></span></div>`;
@@ -589,14 +597,14 @@
     else if(kind==='cardio') body=cardioCardBody(e,x);
     else if(kind==='time'||kind==='session') body=sessionCardBody(e,x);
     else body=repsCardBody(e,x);
-    return `<div class="exercise ${sectionClass(e.section)}" data-ex="${esc(e.id)}" data-index="${i}"><div class="exTop"><input class="check exDone" type="checkbox" ${done}><div><div class="exName">${esc(e.name)}</div>${e.planned?`<div class="planned">${esc(e.planned)}</div>`:''}</div></div>${body}${kind==='strength'||kind==='reps'?rest:''}<div class="field noteArea"><label>Nota del ejercicio</label><input class="exNote" value="${esc(x.note||'')}" placeholder="Sensaciones / técnica"></div></div>`;
+    return `<div class="exercise ${sectionClass(e.section)}" data-ex="${esc(e.id)}" data-index="${i}"><div class="exTop"><input class="check exDone" type="checkbox" ${done}><div><div class="exName">${esc(e.name)}</div>${e.planned?`<div class="planned">${esc(e.planned)}</div>`:''}</div></div>${body}${copyPreviousValuesButton(e,kind)}${kind==='strength'||kind==='reps'?rest:''}<div class="field noteArea"><label>Nota del ejercicio</label><input class="exNote" value="${esc(x.note||'')}" placeholder="Sensaciones / técnica"></div></div>`;
   }
   function strengthCardBody(day,e,x){
     const rec=recommendStrength(day,e),sets=Number(rec.sets)||Number(e.sets)||3,reps=Number(rec.reps)||Number(e.reps)||'—';let sd=extractOldStrength(x,e);while(sd.length<sets)sd.push({weight:'',reps:'',rpe:''});x.setsData=sd;const delta=Number(rec.delta)||0,deltaText=delta?`${delta>0?'+':''}${delta} kg vs última`:'= última carga';
     return `<div class="recommendHero"><div><small>RECOMENDACIÓN ADAPTATIVA</small><strong>${esc(weightLabel(e,rec.weight))} · ${sets}×${reps} · RIR ${rec.rir}</strong><span>${esc(deltaText)}</span></div><span class="confidenceTag">${esc(rec.confidence)}</span></div><div class="autoRec"><b>Por qué:</b> ${rec.reason.map(esc).join(' ')}</div>
       <div class="restTimerRow"><div><span>Descanso entre series</span><strong>${e.restSetSec||'—'} s</strong></div><button class="primaryBtn small restTimerBtn" data-seconds="${e.restSetSec||90}">▶ Iniciar descanso</button></div>
       <div class="setTable"><div class="setRow"><div class="rowNum tableHead">#</div><div class="tableHead">Peso kg</div><div class="tableHead">Reps</div><div class="tableHead">RPE</div></div>${sd.slice(0,Math.max(sets,sd.length)).map((st,j)=>`<div class="setRow" data-set="${j}"><div class="rowNum">${j+1}</div><input class="setWeight" inputmode="decimal" value="${esc(st.weight??'')}" placeholder="${Number.isFinite(num(rec.weight))?rec.weight:''}"><input class="setReps" inputmode="numeric" value="${esc(st.reps??'')}" placeholder="${reps}"><input class="setRpe" inputmode="decimal" value="${esc(st.rpe??'')}" placeholder="0-10"></div>`).join('')}</div>
-      <div class="strengthActions"><button class="lastBtn copyLast">↺ Copiar último registro</button><button class="lastBtn exerciseProfileBtn">📈 Ver progresión</button></div>`;
+      <div class="strengthActions"><button class="lastBtn copyLast">↺ Copiar valores del entreno anterior</button><button class="lastBtn exerciseProfileBtn">📈 Ver progresión</button></div>`;
   }
   function repsCardBody(e,x){
     const sets=Number(e.sets)||'',reps=Number(e.reps)||'';
@@ -623,7 +631,7 @@
     card.querySelectorAll('.intervalRow[data-int]').forEach(row=>{const j=Number(row.dataset.int);x.intervals=x.intervals||[];while(x.intervals.length<=j)x.intervals.push({});[['.intWork','work'],['.intRecovery','recovery'],['.intRpe','rpe']].forEach(([sel,key])=>row.querySelector(sel).oninput=ev=>{x.intervals[j][key]=ev.target.value;save();});});
     const bind=(sel,key)=>{const el=card.querySelector(sel);if(el)el.oninput=()=>{x[key]=el.value;save();const speed=card.querySelector('.bikeSpeed');if(speed&&num(x.distance)>0&&num(x.minutes)>0)speed.textContent=(num(x.distance)/(num(x.minutes)/60)).toFixed(1)+' km/h';const pace=card.querySelector('.swimPace');if(pace&&num(x.meters)>0&&num(x.minutes)>0){const sec=num(x.minutes)*60/(num(x.meters)/100);pace.textContent=`${Math.floor(sec/60)}:${String(Math.round(sec%60)).padStart(2,'0')} /100 m`;}};};
     [['.exSets','sets'],['.exReps','reps'],['.exValue','value'],['.bikeDistance','distance'],['.bikeMinutes','minutes'],['.bikeRpe','rpe'],['.bikeElevation','elevation'],['.swimMeters','meters'],['.swimMinutes','minutes'],['.swimRpe','rpe'],['.swimStroke','stroke'],['.swimBlocks','blocks'],['.cardioMinutes','minutes'],['.cardioDistance','distance'],['.cardioRpe','rpe'],['.sessionValue','value'],['.sessionRpeEx','rpe']].forEach(([sel,key])=>bind(sel,key));
-    card.querySelector('.copyLast')?.addEventListener('click',()=>{const h=findLastExerciseLog(day.date,e.canonicalName||e.name);if(!h){toastMsg('No hay un registro anterior');return;}Object.assign(x,clone(h));save();renderDay();toastMsg('Último registro copiado');});
+    card.querySelector('.copyLast')?.addEventListener('click',()=>{const h=findLastExerciseLog(day.date,e.canonicalName||e.name);if(!h){toastMsg('No hay valores anteriores de este ejercicio');return;}const previous=clone(h);delete previous.done;delete previous.note;Object.assign(x,previous);save();renderDay();toastMsg('Valores anteriores copiados');});
     card.querySelector('.restTimerBtn')?.addEventListener('click',ev=>startTimer(Number(ev.currentTarget.dataset.seconds)||90,`Descanso · ${e.name}`,{phaseText:`Siguiente: ${e.restExerciseSec||90} s antes de cambiar de ejercicio`}));
     card.querySelector('.intervalTimerBtn')?.addEventListener('click',()=>startIntervalSequence(e));
     card.querySelector('.exerciseProfileBtn')?.addEventListener('click',()=>{statsExercise=e.canonicalName||e.name;setView('stats');});
